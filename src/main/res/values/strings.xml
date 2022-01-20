@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrimeWatch</string>
+    <color name="gray">#FFFFFF</color>
+    <string name="title_activity_maps">Map</string>
+</resources>
